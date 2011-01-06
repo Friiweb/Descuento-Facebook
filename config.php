@@ -4,6 +4,7 @@ define('SECRET', 'API secreta de la aplicacion');
 
 define('FBROOT', 'Ruta de la aplicacion'); //ejemplo http://apps.facebook.com/nombreapp/
 define('DESCUENTO','Define el texto del descuento'); //ejemplo: 2x1 en una copa en X
+define('IMAGEN','URI de la imagen');
 //Fin edicion codigo
 
 require_once("includes/facebook.php");
