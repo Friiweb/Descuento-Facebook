@@ -1,5 +1,9 @@
-Crear la aplicación, incluir la URL del root en facebook y seleccionar la opción FBML en vez de IFRAME en la aplicación.
+1. Subir los archivos al servidor.
+2. Crear la aplicación, incluir la URL del root en facebook y seleccionar la opción FBML en vez de IFRAME en la aplicación.
+3. Mofificar las primeras lineas de código de config.php y go!.
 
-Mofificar las primeras lineas de código de config.php y go!.
+Puedes ver un ejemplo en http://apps.facebook.com/descuentofriiweb/
+Para crear una aplicación en Facebook puedes visitar http://www.facebook.com/developers/createapp.php
 
 Creado por Friiweb, 2011.
+http://www.friiweb.com

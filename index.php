@@ -2,7 +2,7 @@
 require_once("config.php");
 ?>
 <h2>
-Invita a 10 amigos para recibir el descuento de <?php echo DESCUENTO; ?>
+Invita a al menos un amigo para recibir: <?php echo DESCUENTO; ?>
 </h2>
 
 <fb:request-form 
